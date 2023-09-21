@@ -2,10 +2,12 @@
 Furitshop E-Commerce Dynamic Website
 A dynamic website built with PHP, MySQL, HTML and CSS
 Languages Used:
+PHP
 HTML
 CSS
 PHP
 MySQL
+
 MySQL Database folder contains the .sql file 
 Furitshop folder contains all the .php files
 
