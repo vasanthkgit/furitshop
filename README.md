@@ -1,4 +1,4 @@
-# furitshop Dynamic Website mysql
+# Furitshop Dynamic Website mysql
 Furitshop E-Commerce Dynamic Website
 A dynamic website built with PHP, MySQL, HTML and CSS
 Languages Used:
